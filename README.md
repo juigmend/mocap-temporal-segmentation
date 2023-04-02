@@ -1,5 +1,10 @@
 # MoCap temporal segmentation
 
+<embed type="video/mp4" src="man_woman_lindy_hop_full_az90_el0_trace0.2.mp4">
+
+![man_woman_lindy_hop_30fps_vel_euc_nov7_filt1.76_pt1.9_numbered_boundaries_online](man_woman_lindy_hop_30fps_vel_euc_nov7_filt1.76_pt1.9_numbered_boundaries_online.png)
+
+
 # Description:
 
 Matlab code, TSV MoCap data and a technical report. 
