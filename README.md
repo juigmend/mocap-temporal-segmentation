@@ -1,15 +1,8 @@
 # MoCap temporal segmentation
 
-
-
-
-
 ![](https://gitlab.jyu.fi/juigmend/mocap-temporal-segmentation/-/raw/main/man_woman_lindy_hop_full_az90_el0_trace0.2.mp4)
 
-<img src="https://gitlab.jyu.fi/juigmend/mocap-temporal-segmentation/-/raw/main/man_woman_lindy_hop_30fps_vel_euc_nov7_filt1.76_pt1.9_numbered_boundaries_online_TRIM.png" width="1200" height="150"/>
-
-
-
+<img src="https://gitlab.jyu.fi/juigmend/mocap-temporal-segmentation/-/raw/main/man_woman_lindy_hop_30fps_vel_euc_nov7_filt1.76_pt1.9_numbered_boundaries_online_TRIM.png" width="1200" height="120"/>
 
 # Description:
 
